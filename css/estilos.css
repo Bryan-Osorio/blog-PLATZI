@@ -27,6 +27,7 @@ h1{
     transform: scale(1.1);
 }
 
+
 header{
     background-color: #000;
 }
@@ -51,4 +52,12 @@ a{
 
 a:hover{
     text-decoration: underline;
+}
+
+footer{
+    margin-top: 4rem;
+    background-color: #000;
+    text-align: center;
+    padding: 20px;
+    color: #fff;
 }
