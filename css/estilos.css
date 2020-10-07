@@ -26,3 +26,29 @@ h1{
 .contenedor:hover{
     transform: scale(1.1);
 }
+
+header{
+    background-color: #000;
+}
+
+ul{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+li{
+    list-style: none;
+}
+
+a{
+    display: block;
+    color: #fff;
+    padding: 20px;
+    text-decoration: none;
+    font-size: 1.1em;
+}
+
+a:hover{
+    text-decoration: underline;
+}
